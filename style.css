@@ -51,6 +51,9 @@
     margin: 0 auto;
     margin-top: 35px;
 }
+.gy a{
+    color: #000000;
+}
 .zhuti .nr{
     width: 580px;
     height: 270px;
@@ -125,4 +128,27 @@
     margin: 0 auto;
     padding-top: 50px;
     text-align: center;
+}
+.yejiao .box1{
+    width: 555px;
+    height: 226px;
+    margin-top: 98px;
+    margin: 0 auto;
+    /* background: blue; */
+}
+.img01{
+    float: left;
+    padding-right :153px;
+}
+.img02{
+    float: left;
+    padding-right :148px;
+}
+.box1 .p1{
+    float: left;
+    padding-right :132px;
+}
+.box1 .p2{
+    float: left;
+    padding-right :89px;
 }
