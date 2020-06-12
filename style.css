@@ -132,8 +132,9 @@
 .yejiao .box1{
     width: 555px;
     height: 226px;
-    margin-top: 98px;
+    
     margin: 0 auto;
+    margin-top: 98px;
     /* background: blue; */
 }
 .img01{
